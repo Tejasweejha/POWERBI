@@ -22,3 +22,9 @@ PhonePay_Final.pbix contains the complete Power BI dashboard.
 ## Purpose
 The goal of this project is to practice data analysis and visualization 
 using Power BI and to generate insights from digital payment data.
+
+## Dashboard Preview
+
+![Dashboard](Screenshot 2026-03-11 145425.png)
+
+![Dashboard](Screenshot 2026-03-11 145516.png)
